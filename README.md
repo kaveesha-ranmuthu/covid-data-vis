@@ -4,7 +4,7 @@ Takes COVID-19 case numbers and transforms them into a line graph.
 ## Technologies
 This project was creates using:
 - HTML
-- CSS/Sass
+- Sass
 - JavaScript
 - React
 - Recharts
