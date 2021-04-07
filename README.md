@@ -1,6 +1,9 @@
 # COVID-19 Data Visualisation
 Takes COVID-19 case numbers and transforms them into a line graph. 
 
+## Demo
+https://covid-data-vis.netlify.app
+
 ## Technologies
 This project was creates using:
 - HTML
