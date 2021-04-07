@@ -16,6 +16,7 @@ body {
   text-align: center;
   margin: 50px;
   color: $text-color;
+  overflow-x: hidden;
 
   & ::selection {
     background-color: $highlight-color;
@@ -110,10 +111,4 @@ body {
 
 .select-load {
   opacity: 0.3;
-}
-
-.loading {
-  position: absolute;
-  top: 46%;
-  left: 50%;
 }

@@ -6,8 +6,18 @@ const Loading = () => {
   const { isLoading } = useGlobalContext();
 
   return (
-    <div className="loading">
-      <PuffLoader color="#131313" loading={isLoading} css="" size={60} />
+    <div>
+      <PuffLoader
+        color="#131313"
+        loading={isLoading}
+        css={{
+          position: "fixed",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
+        }}
+        size={60}
+      />
     </div>
   );
 };
