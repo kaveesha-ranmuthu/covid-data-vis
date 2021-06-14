@@ -18,6 +18,7 @@ Users are able to select a country and view COVID-19 data for the country. This 
 - Active cases
 - Total deaths
 - Total recovered
+
 Users are also able to filter to see only one of the above at a time instead of all. 
 
 ## Installation
