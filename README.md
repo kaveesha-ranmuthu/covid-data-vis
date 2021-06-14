@@ -5,7 +5,7 @@ Takes COVID-19 case numbers and transforms them into a line graph.
 https://covid-data-vis.netlify.app
 
 ## Technologies
-This project was creates using:
+This project was created using:
 - HTML
 - Sass
 - JavaScript
