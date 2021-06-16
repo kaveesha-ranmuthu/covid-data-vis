@@ -7,7 +7,7 @@ https://covid-data-vis.netlify.app
 ## Technologies
 This project was created using:
 - HTML
-- Sass
+- Sass/SCSS
 - JavaScript
 - React
 - Recharts
